@@ -1,0 +1,10 @@
+ads.example.com
+tracker.google-analytics.com
+malicious-site.ru
+*.adultdomain.com
+fake-login.net
+clickbait.site
+phishing-bank.io
+badhost.local
+test-blocked.com
+example-bad.ru
