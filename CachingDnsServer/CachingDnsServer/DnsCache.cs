@@ -29,7 +29,7 @@ namespace DnsServerGUI
 
         public DnsCache()
         {
-            _cleanupTimer = new Timer(10 * 1000);
+            _cleanupTimer = new Timer(1000);
             _cleanupTimer.Elapsed += (s, e) => Cleanup();
             _cleanupTimer.Start();
         }
